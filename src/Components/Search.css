@@ -1,0 +1,13 @@
+.search {
+  margin-left: 7%;
+  width: 40%;
+}
+.search form input,
+.search form button {
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+}
+.search form input {
+  width: 80%;
+}
